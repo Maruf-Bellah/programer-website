@@ -1,0 +1,8 @@
+.cart{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 50px;
+    grid-row-gap: 100px;
+    margin-left: 100px;
+
+}

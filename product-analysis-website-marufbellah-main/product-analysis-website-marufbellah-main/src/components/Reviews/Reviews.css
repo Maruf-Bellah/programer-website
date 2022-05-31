@@ -1,0 +1,31 @@
+.review{
+
+
+}
+@media only screen and (max-width: 660px) {
+     .review {
+      display: flex;
+       display: block;
+       overflow-x: hidden;
+   
+     }
+     .review-details{
+       padding: 0;
+     }
+     .home-info{
+        overflow-x: hidden;
+     }
+     .home{
+       display: block;
+        text-align: center;
+     }
+     .homeCart{
+        justify-content: space-around;
+     }
+     .cart{
+       display: none;
+     }
+     .dashBoard{
+       display: none;
+     }
+   }
